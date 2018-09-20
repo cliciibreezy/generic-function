@@ -1,3 +1,4 @@
+<?php
 function GenericInsertData($table, $formdata)
     {
         $db_host="localhost";
@@ -28,3 +29,4 @@ function GenericInsertData($table, $formdata)
         
               
     }
+?>
