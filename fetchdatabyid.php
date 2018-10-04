@@ -1,3 +1,4 @@
+<?php
 function FetchDataByID($table,$where,$id)
     {
     	  $db_host="localhost";
@@ -25,3 +26,4 @@ function FetchDataByID($table,$where,$id)
         
         	  
     }
+?>
